@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eduation-portal-service" />
+        <module name="education-bean" />
+        <module name="education-eureka-reg-center" />
+        <module name="education-interface" />
+        <module name="education-protal-web" />
+        <module name="education-service-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eduation-portal-service" target="1.8" />
+      <module name="education-bean" target="1.8" />
+      <module name="education-eureka-reg-center" target="1.8" />
+      <module name="education-interface" target="1.8" />
+      <module name="education-parent" target="1.8" />
+      <module name="education-protal-web" target="1.8" />
+      <module name="education-service-util" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
