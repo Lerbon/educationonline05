@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/eduation-portal-service/eduation-portal-service.iml" filepath="$PROJECT_DIR$/eduation-portal-service/eduation-portal-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/education-bean/education-bean.iml" filepath="$PROJECT_DIR$/education-bean/education-bean.iml" />
       <module fileurl="file://$PROJECT_DIR$/education-eureka-reg-center/education-eureka-reg-center.iml" filepath="$PROJECT_DIR$/education-eureka-reg-center/education-eureka-reg-center.iml" />
       <module fileurl="file://$PROJECT_DIR$/education-interface/education-interface.iml" filepath="$PROJECT_DIR$/education-interface/education-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/education-parent/education-parent.iml" filepath="$PROJECT_DIR$/education-parent/education-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education-portal-service/education-portal-service.iml" filepath="$PROJECT_DIR$/education-portal-service/education-portal-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/education-protal-web/education-protal-web.iml" filepath="$PROJECT_DIR$/education-protal-web/education-protal-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/education-service-util/education-service-util.iml" filepath="$PROJECT_DIR$/education-service-util/education-service-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/educationonline05.iml" filepath="$PROJECT_DIR$/.idea/educationonline05.iml" />

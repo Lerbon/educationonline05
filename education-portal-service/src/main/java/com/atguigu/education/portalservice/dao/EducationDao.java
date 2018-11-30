@@ -14,5 +14,5 @@ import java.util.List;
 public interface EducationDao {
 
     @Select("select * from e_lession")
-    public List<Lession> getAllEducation();
+    List<Lession> getAllEducation();
 }

@@ -9,8 +9,10 @@
     <version>1.0-SNAPSHOT</version>
     <!--聚合项目-->
     <modules>
-
-
+        <!--<module>../education-eureka-reg-center</module>-->
+        <module>../education-protal-web</module>
+        <module>../education-portal-service</module>
+        <module>../education-service-util</module>
         <module>../education-bean</module>
         <module>../education-interface</module>
     </modules>

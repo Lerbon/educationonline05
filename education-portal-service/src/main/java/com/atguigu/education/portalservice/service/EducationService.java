@@ -9,5 +9,5 @@ import java.util.List;
  * @create 2018-11-29 21:45
  */
 public interface EducationService {
-    public List<Lession> getAllEducation();
+    List<Lession> getAllEducation();
 }
