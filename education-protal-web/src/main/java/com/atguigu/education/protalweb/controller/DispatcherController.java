@@ -19,6 +19,11 @@ public class DispatcherController {
     @Autowired
     private EducationService educationService;
 
+    @RequestMapping("/student/index")
+    public String index(){
+        return "/student/index";
+    }
+
     @ResponseBody
     @RequestMapping("/education/getAllLession")
     public List<Lession> getAllLession(){

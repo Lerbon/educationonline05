@@ -18,6 +18,8 @@ public class DispatcherController {
     @Autowired
     private EducationService educationService;
 
+
+
     @RequestMapping("/education/getAllLession")
     public List<Lession> getAllEducation(){
         return educationService.getAllEducation();
