@@ -22,6 +22,7 @@ public class DispatcherController {
     @ResponseBody
     @RequestMapping("/education/getAllLession")
     public List<Lession> getAllLession(){
+
         List<Lession> allEducation = educationService.getAllEducation();
         return allEducation;
     }
